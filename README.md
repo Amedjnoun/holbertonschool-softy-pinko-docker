@@ -6,8 +6,6 @@ A step‑by‑step journey from a single “Hello, World!” Docker image to a *
 * Back-end API (Python + Flask) scaled to multiple instances
 * Reverse proxy / load balancer (Nginx, round‑robin)
 
-![High-level architecture diagram showing browser -> Nginx reverse proxy -> (front-end Nginx) and (two Flask API containers) with round-robin arrows](https://placehold.co/800x400/E2E8F0/4A5568?text=Architecture+Diagram)
-
 ---
 
 ## ✨ Key Concepts Practiced
@@ -300,3 +298,4 @@ Add your preferred license (e.g. MIT) in a `LICENSE` file.
 Feel free to open an issue or discussion if you extend this project or run into problems.
 
 Happy containerizing! 🚀
+

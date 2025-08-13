@@ -267,35 +267,4 @@ By finishing this project you will be comfortable with:
 
 ---
 
-## 🗂️ Possible Next Steps
-
-* Add a database layer (PostgreSQL)
-* Introduce Redis caching
-* Add automated tests (pytest) and run in CI
-* Replace round-robin with least-connections or sticky sessions
-* Deploy to a remote host or Kubernetes
-
----
-
-## 📜 License
-
-Add your preferred license (e.g. MIT) in a `LICENSE` file.
-
----
-
-## 🤝 Contributing
-
-1. Fork
-2. Create feature branch: `git checkout -b feature/xyz`
-3. Commit: `git commit -m "Add xyz"`
-4. Push: `git push origin feature/xyz`
-5. Open a Pull Request
-
----
-
-## 🙋 Support / Questions
-
-Feel free to open an issue or discussion if you extend this project or run into problems.
-
-Happy containerizing! 🚀
 
